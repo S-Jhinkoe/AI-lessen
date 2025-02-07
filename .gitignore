@@ -1,0 +1,27 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Virtual environment directories (if you use virtualenv)
+venv/
+env/
+*.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Editor backups
+*~
